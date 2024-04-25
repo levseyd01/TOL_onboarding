@@ -167,26 +167,26 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
          Security Code field
 
 
-     5.1.3. Click `Next`.
+   5.1.3. Click `Next`.
 
-     .. only:: html
+   .. only:: html
 
-        .. figure:: _static/pdf_images/security_code_next_button.png
-           :alt: Security Code, Next Button
-           :scale: 50%
-           :align: center
+      .. figure:: _static/pdf_images/security_code_next_button.png
+         :alt: Security Code, Next Button
+         :scale: 50%
+         :align: center
 
-           Security Code, Next Button
+         Security Code, Next Button
 
 
-     .. only:: latex
+   .. only:: latex
 
-        .. figure:: _static/pdf_images/security_code_next_button.png
-           :alt: Security Code, Next Button
-           :scale: 35%
-           :align: center
+      .. figure:: _static/pdf_images/security_code_next_button.png
+         :alt: Security Code, Next Button
+         :scale: 35%
+         :align: center
 
-           Security Code, Next Button
+         Security Code, Next Button
 
 .. only:: latex
 
