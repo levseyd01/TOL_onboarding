@@ -1,8 +1,8 @@
 
 
-#############################################
-Transfer Online, Inc. Onboarding Instructions
-#############################################
+#########################################################
+Transfer Online, Inc. Shareholder Onboarding Instructions
+#########################################################
 
 .. only:: html
 
@@ -20,6 +20,12 @@ Transfer Online, Inc. Onboarding Instructions
 
    .. raw:: latex
 
+      \clearpage
+
+.. only:: latex
+
+   .. raw:: latex
+
       \begin{table}[h!]
       \centering
       \begin{tabular}{|l|l|l|l|}
@@ -32,31 +38,79 @@ Transfer Online, Inc. Onboarding Instructions
       \caption{Revision Table}
       \end{table}
 
+
+.. only:: latex
+
+   .. raw:: latex
+
+      \clearpage
+
+
+**How To Register For Online Access**
+
+
+
 1. Go to the `Transfer Online, Inc. <https://www.transferonline.com/>`_ website.
 
 2. Click `Get Started Today`.
 
-   .. figure:: _static/pdf_images/get_started_today.png
-      :alt: Get Started Today
-      :align: center
+   .. only:: html
 
-      Get Started Today
+      .. figure:: _static/pdf_images/get_started_today.png
+         :alt: Get Started Today
+         :scale: 50%
+         :align: center
+
+         Get Started Today
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/get_started_today.png
+         :alt: Get Started Today
+         :scale: 25%
+         :align: center
+
+         Get Started Today
 
 3. Click `Sign Up Here`.
 
-   .. figure:: _static/pdf_images/sign_up_here_shareholders.png
-      :alt: Sign Up Here
-      :align: center
+   .. only:: html
 
-      Sign Up Here
+      .. figure:: _static/pdf_images/sign_up_here_shareholders.png
+         :alt: Sign Up Here
+         :scale: 50%
+         :align: center
+
+         Sign Up Here
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/sign_up_here_shareholders.png
+         :alt: Sign Up Here
+         :scale: 25%
+         :align: center
+
+         Sign Up Here
 
 4. Fill out the required information.
 
-   .. figure:: _static/pdf_images/register_for_online_access_page.png
-      :alt: Register Online Access Page
-      :align: center
+   .. only:: html
 
-      Register Online Access Page
+      .. figure:: _static/pdf_images/register_for_online_access_page.png
+         :alt: Register Online Access Page
+         :scale: 50%
+         :align: center
+
+         Register Online Access Page
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/register_for_online_access_page.png
+         :alt: Register Online Access Page
+         :scale: 25%
+         :align: center
+
+         Register Online Access Page
 
 5. Verify Account.
 
@@ -72,29 +126,75 @@ Transfer Online, Inc. Onboarding Instructions
    - A letter sent from Transfer Online, Or
    - From another member who is already managing the account you wish to manage.
 
-     5.1.1. (To Skip) Click `I don't have a Security Code`.
+   5.1.1. (To Skip) Click `I don't have a Security Code`.
 
-     .. figure:: _static/pdf_images/skip_security_code.png
-        :alt: Skip Security Code Option
-        :align: center
+   .. only:: html
 
-        Skip Security Code Option
+      .. figure:: _static/pdf_images/skip_security_code.png
+         :alt: Skip Security Code Option
+         :scale: 75%
+         :align: center
 
-     5.1.2. Input Security Code into `Security Code` field.
+         Skip Security Code Option
 
-     .. figure:: _static/pdf_images/security_code_field.png
-        :alt: Security Code
-        :align: center
+   .. only:: latex
 
-        Security Code field
+        .. figure:: _static/pdf_images/skip_security_code.png
+           :alt: Skip Security Code Option
+           :scale: 25%
+           :align: center
 
-     5.1.3. Click `Next`.
+           Skip Security Code Option
 
-     .. figure:: _static/pdf_images/security_code_next_button.png
-        :alt: Security Code, Next Button
-        :align: center
+   5.1.2. Input Security Code into `Security Code` field.
 
-        Security Code, Next Button
+   .. only:: html
+
+      .. figure:: _static/pdf_images/security_code_field.png
+         :alt: Security Code
+         :scale: 75%
+         :align: center
+
+         Security Code field
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/security_code_field.png
+         :alt: Security Code
+         :scale: 25%
+         :align: center
+
+         Security Code field
+
+
+   5.1.3. Click `Next`.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/security_code_next_button.png
+         :alt: Security Code, Next Button
+         :scale: 75%
+         :align: center
+
+         Security Code, Next Button
+
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/security_code_next_button.png
+         :alt: Security Code, Next Button
+         :scale: 35%
+         :align: center
+
+         Security Code, Next Button
+
+   .. only:: latex
+
+      .. raw:: latex
+
+         \clearpage
+
+
 
    5.2. (Optional) Method Two: Use Information From Certificate.
 
@@ -104,30 +204,73 @@ Transfer Online, Inc. Onboarding Instructions
    - Certificate Number, And
    - (If known) Certificate ID.
 
+   5.2.1.   **(To Skip)** Click `Skip This Step`.
 
-     5.2.1. **(To Skip)** Click `Skip This Step`.
+   .. only:: html
 
-     .. figure:: _static/pdf_images/skip_certificate_information.png
-        :alt: Skip Certificate Information
-        :align: center
+      .. figure:: _static/pdf_images/skip_certificate_information.png
+         :alt: Skip Certificate Information
+         :scale: 35%
+         :align: center
 
-        Skip Certificate Information
+         Skip Certificate Information
 
-     5.2.2. Fill out the required information.
+   .. only:: latex
 
-     .. figure:: _static/pdf_images/certificate_information_fields.png
-        :alt: Certificate Information
-        :align: center
+      .. figure:: _static/pdf_images/skip_certificate_information.png
+         :alt: Skip Certificate Information
+         :scale: 25%
+         :align: center
 
-        Certificate Information
+         Skip Certificate Information
 
-     5.2.3. Click `Next`.
+   5.2.2.   Fill out the required information.
 
-     .. figure:: _static/pdf_images/certificate_information_next_button.png
-        :alt: Certificate Information, Next Button
-        :align: center
+   .. only:: html
 
-        Certificate Information, Next Button
+      .. figure:: _static/pdf_images/certificate_information_fields.png
+         :alt: Certificate Information
+         :scale: 35%
+         :align: center
+
+         Certificate Information
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/certificate_information_fields.png
+         :alt: Certificate Information
+         :scale: 25%
+         :align: center
+
+         Certificate Information
+
+   5.2.3.   Click `Next`.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/certificate_information_next_button.png
+         :alt: Certificate Information, Next Button
+         :scale: 35%
+         :align: center
+
+         Certificate Information, Next Button
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/certificate_information_next_button.png
+         :alt: Certificate Information, Next Button
+         :scale: 25%
+         :align: center
+
+         Certificate Information, Next Button
+
+
+  .. only:: latex
+
+     .. raw:: latex
+
+        \clearpage
+
 
    5.3. (Optional) Method Three: Provide as Much Information as Possible.
 
@@ -136,39 +279,42 @@ Transfer Online, Inc. Onboarding Instructions
    - A Security Code, And
    - Certificate Information.
 
-     5.3.1. Fill out the required information.
+   5.3.1.   Fill out the required information.
 
-     .. figure:: _static/pdf_images/general_account_option_fields.png
-        :alt: Provide Account Information Fields
-        :align: center
+   .. only:: html
 
-        Provide Account Information Fields
+      .. figure:: _static/pdf_images/general_account_option_fields.png
+         :alt: Provide Account Information Fields
+         :scale: 35%
+         :align: center
 
-     5.3.2. Click `Submit`.
+         Provide Account Information Fields
 
-     .. figure:: _static/pdf_images/general_account_option_submit.png
-        :alt: Provide Account Information, Submit Button
-        :align: center
+   .. only:: latex
 
-        Provide Account Information, Submit Button
+      .. figure:: _static/pdf_images/general_account_option_fields.png
+         :alt: Provide Account Information Fields
+         :scale: 25%
+         :align: center
 
+         Provide Account Information Fields
 
+   5.3.2.   Click `Submit`.
 
+   .. only:: html
 
+      .. figure:: _static/pdf_images/general_account_option_submit.png
+         :alt: Provide Account Information, Submit Button
+         :scale: 35%
+         :align: center
 
+         Provide Account Information, Submit Button
 
+   .. only:: latex
 
+      .. figure:: _static/pdf_images/general_account_option_submit.png
+         :alt: Provide Account Information, Submit Button
+         :scale: 25%
+         :align: center
 
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Table of Contents
-
-   my_accounts/index.rst
-   company_information/company_information.rst
-   shareholders/index.rst
-   certificates/index.rst
-   proxies/proxies.rst
-   reports/reports.rst
-   knowledge_center/knowledge_center.rst
-   contact_transfer_agent.rst
+         Provide Account Information, Submit Button
