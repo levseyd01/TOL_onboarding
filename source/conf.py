@@ -92,8 +92,6 @@ latex_elements = {
 \clearpage
     ''',
 
-
-``
 }
 
 autosectionlabel_maxdepth = 5
