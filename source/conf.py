@@ -82,15 +82,7 @@ latex_elements = {
 
 ''',
 
-    'maketitle': r'''
-\begin{titlepage}
-\centering
-\vspace*{\fill}
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{tol_shareholder_onboarding_cover_page.png}
-\vspace*{\fill}
-\end{titlepage}
-\clearpage
-    ''',
+    'maketitle': r'\maketitle',
 
 }
 
