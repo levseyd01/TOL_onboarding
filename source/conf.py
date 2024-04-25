@@ -226,7 +226,7 @@ pdf_break_level = 2
 # pdf_verbosity = 0
 
 # If false, no index is generated.
-pdf_use_index = True
+pdf_use_index = False
 
 # If false, no modindex is generated.
 # pdf_use_modindex = True
