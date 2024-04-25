@@ -188,11 +188,12 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
          Security Code, Next Button
 
-.. only:: latex
+  .. only:: latex
 
-   .. raw:: latex
+     .. raw:: latex
 
-      \clearpage
+        \clearpage
+
 
 
    5.2. (Optional) Method Two: Use Information From Certificate.
@@ -264,11 +265,11 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
          Certificate Information, Next Button
 
 
-.. only:: latex
+  .. only:: latex
 
-   .. raw:: latex
+     .. raw:: latex
 
-      \clearpage
+        \clearpage
 
 
    5.3. (Optional) Method Three: Provide as Much Information as Possible.
