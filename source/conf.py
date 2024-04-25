@@ -135,7 +135,7 @@ html_theme_options = {
     "use_issues_button": True,
     "collapse_navbar": False,
     "show_navbar_depth": 4,
-    "home_page_in_toc": True,
+    "home_page_in_toc": False,
     "use_download_button": True,
     "show_prev_next": False
 }
