@@ -121,10 +121,12 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
         Security Code field
 
-     5.1.3. Click `Next`.
+
 
 
     .. only:: html
+
+     5.1.3. Click `Next`.
 
        .. figure:: _static/pdf_images/security_code_next_button.png
           :alt: Security Code, Next Button
