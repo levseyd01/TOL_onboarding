@@ -54,39 +54,63 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
 2. Click `Get Started Today`.
 
-   .. figure:: _static/pdf_images/get_started_today.png
-      :alt: Get Started Today
-      :scale: 35%
-      :align: center
+   .. only:: html
 
-      Get Started Today
+      .. figure:: _static/pdf_images/get_started_today.png
+         :alt: Get Started Today
+         :scale: 35%
+         :align: center
+
+         Get Started Today
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/get_started_today.png
+         :alt: Get Started Today
+         :scale: 25%
+         :align: center
+
+         Get Started Today
 
 3. Click `Sign Up Here`.
 
-   .. figure:: _static/pdf_images/sign_up_here_shareholders.png
-      :alt: Sign Up Here
-      :scale: 25%
-      :align: center
+   .. only:: html
 
-      Sign Up Here
+      .. figure:: _static/pdf_images/sign_up_here_shareholders.png
+         :alt: Sign Up Here
+         :scale: 35%
+         :align: center
+
+         Sign Up Here
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/sign_up_here_shareholders.png
+         :alt: Sign Up Here
+         :scale: 25%
+         :align: center
+
+         Sign Up Here
 
 4. Fill out the required information.
 
-   .. figure:: _static/pdf_images/register_for_online_access_page.png
-      :alt: Register Online Access Page
-      :scale: 35%
-      :align: center
+   .. only:: html
 
-      Register Online Access Page
+      .. figure:: _static/pdf_images/register_for_online_access_page.png
+         :alt: Register Online Access Page
+         :scale: 35%
+         :align: center
 
+         Register Online Access Page
 
-.. only:: latex
+   .. only:: latex
 
-   .. raw:: latex
+      .. figure:: _static/pdf_images/register_for_online_access_page.png
+         :alt: Register Online Access Page
+         :scale: 25%
+         :align: center
 
-      \clearpage
-
-
+         Register Online Access Page
 
 5. Verify Account.
 
@@ -102,28 +126,48 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - A letter sent from Transfer Online, Or
    - From another member who is already managing the account you wish to manage.
 
+   5.1.1. (To Skip) Click `I don't have a Security Code`.
 
-     5.1.1. (To Skip) Click `I don't have a Security Code`.
+   .. only:: html
 
-     .. figure:: _static/pdf_images/skip_security_code.png
-        :alt: Skip Security Code Option
-        :scale: 35%
-        :align: center
+      .. figure:: _static/pdf_images/skip_security_code.png
+         :alt: Skip Security Code Option
+         :scale: 35%
+         :align: center
 
-        Skip Security Code Option
+         Skip Security Code Option
 
-     5.1.2. Input Security Code into `Security Code` field.
+   .. only:: latex
 
-     .. figure:: _static/pdf_images/security_code_field.png
-        :alt: Security Code
-        :scale: 35%
-        :align: center
+      .. figure:: _static/pdf_images/skip_security_code.png
+         :alt: Skip Security Code Option
+         :scale: 25%
+         :align: center
 
-        Security Code field
+         Skip Security Code Option
+
+   5.1.2. Input Security Code into `Security Code` field.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/security_code_field.png
+         :alt: Security Code
+         :scale: 35%
+         :align: center
+
+         Security Code field
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/security_code_field.png
+         :alt: Security Code
+         :scale: 25%
+         :align: center
+
+         Security Code field
 
 
      5.1.3. Click `Next`.
-
 
      .. only:: html
 
