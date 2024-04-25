@@ -101,6 +101,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - A letter sent from Transfer Online, Or
    - From another member who is already managing the account you wish to manage.
 
+
      5.1.1. (To Skip) Click `I don't have a Security Code`.
 
      .. figure:: _static/pdf_images/skip_security_code.png
