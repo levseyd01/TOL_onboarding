@@ -9,9 +9,9 @@ import os
 import sys
 
 
-project = 'TOL Onboarding Instructions'
+project = 'TOL Onboarding Instructions for Shareholders'
 copyright = '2023, TransferOnline.'
-html_title = 'Transfer Online Documentation'
+html_title = 'Transfer Online, Inc. Onboarding Instructions for Shareholders'
 author = 'D.Levsey'
 release = '1'
 
@@ -45,13 +45,13 @@ latex_elements = {
 % Set up the header and footer
 \fancyhf{} % Clear all header and footer fields
 \fancyhead[L]{\includegraphics[height=1cm]{solo_light.png}} % Set header image
-\fancyfoot[C]{\color{ConfidentialRed}\textbf{Transfer Online Confidential}} % Set center footer
+\fancyfoot[C]{\color{ConfidentialRed}\textbf{Transfer Online, Inc. Confidential}} % Set center footer
 
 % Custom style for initial pages of chapters using the `plain` style
 \fancypagestyle{plain}{
     \fancyhf{} % Clear all header and footer fields for the `plain` style
     \fancyhead[L]{\includegraphics[height=1cm]{tol-logo.png}} % Set header image for `plain` style
-    \fancyfoot[C]{\color{ConfidentialRed}\textbf{Transfer Online Confidential}} % Set center footer for `plain` style
+    \fancyfoot[C]{\color{ConfidentialRed}\textbf{Transfer Online, Inc. Confidential}} % Set center footer for `plain` style
 }
 
 % Adjust box settings (if needed, based on content)
