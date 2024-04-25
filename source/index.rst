@@ -124,25 +124,26 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
 
 
-    .. only:: html
+  .. only:: html
 
      5.1.3. Click `Next`.
 
-       .. figure:: _static/pdf_images/security_code_next_button.png
-          :alt: Security Code, Next Button
-          :scale: 50%
-          :align: center
+     .. figure:: _static/pdf_images/security_code_next_button.png
+        :alt: Security Code, Next Button
+        :scale: 50%
+        :align: center
 
-          Security Code, Next Button
+        Security Code, Next Button
 
-     .. only:: latex
 
-        .. figure:: _static/pdf_images/security_code_next_button.png
-           :alt: Security Code, Next Button
-           :scale: 35%
-           :align: center
+  .. only:: latex
 
-           Security Code, Next Button
+     .. figure:: _static/pdf_images/security_code_next_button.png
+        :alt: Security Code, Next Button
+        :scale: 35%
+        :align: center
+
+        Security Code, Next Button
 
 .. only:: latex
 
