@@ -1,4 +1,4 @@
-
+.. contents:: :depth: 0
 
 #########################################################
 Transfer Online, Inc. Shareholder Onboarding Instructions
@@ -16,11 +16,6 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
       +-------+------------+-----------+------------------+
 
 
-.. only:: latex
-
-   .. raw:: latex
-
-      \clearpage
 
 .. only:: latex
 
@@ -336,3 +331,6 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
            :align: center
 
            Provide Account Information, Submit Button
+
+
+
