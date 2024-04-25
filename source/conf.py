@@ -140,7 +140,7 @@ html_theme_options = {
     "show_prev_next": False
 }
 
-html_logo = "_static/tol_logo.png"
+html_logo = "_static/tol-logo.png"
 
 html_theme = 'sphinx_book_theme'
 

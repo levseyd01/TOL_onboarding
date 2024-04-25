@@ -59,8 +59,8 @@ Transfer Online, Inc. Onboarding Instructions
 3. Click `Sign Up Here`.
 
    .. figure:: _static/pdf_images/sign_up_here_shareholders.png
-      :scale: 50%
       :alt: Sign Up Here
+      :scale: 50%
       :align: center
 
       Sign Up Here
@@ -68,8 +68,8 @@ Transfer Online, Inc. Onboarding Instructions
 4. Fill out the required information.
 
    .. figure:: _static/pdf_images/register_for_online_access_page.png
-      :scale: 50%
       :alt: Register Online Access Page
+      :scale: 50%
       :align: center
 
       Register Online Access Page
@@ -124,8 +124,8 @@ Transfer Online, Inc. Onboarding Instructions
      5.2.1. **(To Skip)** Click `Skip This Step`.
 
      .. figure:: _static/pdf_images/skip_certificate_information.png
-        :scale: 35%
         :alt: Skip Certificate Information
+        :scale: 35%
         :align: center
 
         Skip Certificate Information
