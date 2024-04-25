@@ -123,14 +123,12 @@ How To Register For Online Access
 
      .. only:: latex
 
-        .. raw:: latex
+        .. figure:: _static/pdf_images/security_code_next_button.png
+           :alt: Security Code, Next Button
+           :scale: 35%
+           :align: center
 
-           .. figure:: _static/pdf_images/security_code_next_button.png
-              :alt: Security Code, Next Button
-              :scale: 35%
-              :align: center
-
-        Security Code, Next Button
+           Security Code, Next Button
 
 .. only:: latex
 
