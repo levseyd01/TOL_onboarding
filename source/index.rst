@@ -74,6 +74,15 @@ Transfer Online, Inc. Onboarding Instructions
 
       Register Online Access Page
 
+
+.. only:: latex
+
+   .. raw:: latex
+
+      \clearpage
+
+
+
 5. Verify Account.
 
    .. note::
@@ -115,6 +124,13 @@ Transfer Online, Inc. Onboarding Instructions
 
         Security Code, Next Button
 
+.. only:: latex
+
+   .. raw:: latex
+
+      \clearpage
+
+
    5.2. (Optional) Method Two: Use Information From Certificate.
 
    This method works if you have a **Physical Certificate** with the following information:
@@ -150,6 +166,13 @@ Transfer Online, Inc. Onboarding Instructions
         :align: center
 
         Certificate Information, Next Button
+
+.. only:: latex
+
+   .. raw:: latex
+
+      \clearpage
+
 
    5.3. (Optional) Method Three: Provide as Much Information as Possible.
 
