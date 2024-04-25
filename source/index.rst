@@ -20,6 +20,12 @@ Transfer Online, Inc. Onboarding Instructions
 
    .. raw:: latex
 
+      \clearpage
+
+.. only:: latex
+
+   .. raw:: latex
+
       \begin{table}[h!]
       \centering
       \begin{tabular}{|l|l|l|l|}
@@ -31,6 +37,13 @@ Transfer Online, Inc. Onboarding Instructions
       \end{tabular}
       \caption{Revision Table}
       \end{table}
+
+
+.. only:: latex
+
+   .. raw:: latex
+
+      \clearpage
 
 1. Go to the `Transfer Online, Inc. <https://www.transferonline.com/>`_ website.
 
@@ -53,6 +66,7 @@ Transfer Online, Inc. Onboarding Instructions
 4. Fill out the required information.
 
    .. figure:: _static/pdf_images/register_for_online_access_page.png
+      :scale: 50%
       :alt: Register Online Access Page
       :align: center
 
