@@ -75,6 +75,11 @@ latex_elements = {
     \end{titlepage}
     \clearpage
 }
+
+
+\renewcommand{\tableofcontents}{},
+
+
 ''',
 
     'maketitle': r'''
@@ -86,6 +91,9 @@ latex_elements = {
 \end{titlepage}
 \clearpage
     ''',
+
+
+``
 }
 
 autosectionlabel_maxdepth = 5
@@ -130,7 +138,7 @@ html_theme_options = {
     "use_source_button": True,
     "use_edit_page_button": True,
     "path_to_docs": "source",
-    "repository_branch": "stable",
+    "repository_branch": "main",
     "use_repository_button": True,
     "use_issues_button": True,
     "collapse_navbar": False,
@@ -254,7 +262,7 @@ pdf_use_coverpage  = False
 # pdf_page_template = 'cutePage'
 
 # Show Table Of Contents at the beginning?
-pdf_use_toc = False
+# pdf_use_toc = False
 
 # How many levels deep should the table of contents be?
 # pdf_toc_depth = 9999
