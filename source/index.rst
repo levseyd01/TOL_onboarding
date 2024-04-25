@@ -1,4 +1,3 @@
-.. contents:: :depth: 0
 
 #########################################################
 Transfer Online, Inc. Shareholder Onboarding Instructions

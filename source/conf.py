@@ -10,7 +10,7 @@ import sys
 
 
 project = 'TOL Onboarding Instructions'
-copyright = '2023, Transferonline.'
+copyright = '2023, TransferOnline.'
 html_title = 'Transfer Online Documentation'
 author = 'D.Levsey'
 release = '1'
@@ -77,7 +77,7 @@ latex_elements = {
 }
 
 
-\renewcommand{\tableofcontents}{},
+
 
 
 ''',
@@ -218,7 +218,7 @@ suppress_warnings = [
 # Section level that forces a break page.
 # For example: 1 means top-level sections start in a new page
 # 0 means disabled
-pdf_break_level = 2
+# pdf_break_level = 1
 
 # When a section starts in a new page, force it to be 'even', 'odd',
 # or just use 'any'
@@ -238,8 +238,7 @@ pdf_use_index = False
 # pdf_use_modindex = True
 
 # If false, no coverpage is generated.
-pdf_use_coverpage  = False
-
+#$
 # Name of the cover page template to use
 # pdf_cover_template = 'sphinxcover.tmpl'
 
