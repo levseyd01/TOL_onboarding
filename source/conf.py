@@ -232,7 +232,7 @@ pdf_use_index = False
 # pdf_use_modindex = True
 
 # If false, no coverpage is generated.
-pdf_use_coverpage = True
+pdf_use_coverpage  = False
 
 # Name of the cover page template to use
 # pdf_cover_template = 'sphinxcover.tmpl'
