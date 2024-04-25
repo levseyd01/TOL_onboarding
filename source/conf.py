@@ -50,7 +50,7 @@ latex_elements = {
 % Custom style for initial pages of chapters using the `plain` style
 \fancypagestyle{plain}{
     \fancyhf{} % Clear all header and footer fields for the `plain` style
-    \fancyhead[L]{\includegraphics[height=1cm]{solo_light.png}} % Set header image for `plain` style
+    \fancyhead[L]{\includegraphics[height=1cm]{tol-logo.png}} % Set header image for `plain` style
     \fancyfoot[C]{\color{ConfidentialRed}\textbf{Transfer Online Confidential}} % Set center footer for `plain` style
 }
 
@@ -77,15 +77,6 @@ latex_elements = {
 }
 ''',
 
-    'maketitle': r'''
-\begin{titlepage}
-\centering
-\vspace*{\fill}
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{tol_shareholder_onboarding_cover_page.png}
-\vspace*{\fill}
-\end{titlepage}
-\clearpage
-    ''',
 }
 
 autosectionlabel_maxdepth = 5
