@@ -112,6 +112,12 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
          Register Online Access Page
 
+    .. only:: latex
+
+       .. raw:: latex
+
+          \clearpage
+
 5. Verify Account.
 
    .. note::
