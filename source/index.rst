@@ -46,8 +46,8 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
       \clearpage
 
 
-How To Register For Online Access
-=================================
+**How To Register For Online Access**
+
 
 1. Go to the `Transfer Online, Inc. <https://www.transferonline.com/>`_ website.
 
