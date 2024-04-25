@@ -60,9 +60,7 @@ Transfer Online, Inc. Onboarding Instructions
 
    .. figure:: _static/pdf_images/sign_up_here_shareholders.png
       :alt: Sign Up Here
-      :scale: 50%
-      :height: 50%
-      :width: 50%
+      :scale: 35%
       :align: center
 
       Sign Up Here
@@ -94,6 +92,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/skip_security_code.png
         :alt: Skip Security Code Option
+        :scale: 35%
         :align: center
 
         Skip Security Code Option
@@ -102,6 +101,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/security_code_field.png
         :alt: Security Code
+        :scale: 35%
         :align: center
 
         Security Code field
@@ -110,6 +110,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/security_code_next_button.png
         :alt: Security Code, Next Button
+        :scale: 35%
         :align: center
 
         Security Code, Next Button
@@ -136,6 +137,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/certificate_information_fields.png
         :alt: Certificate Information
+        :scale: 35%
         :align: center
 
         Certificate Information
@@ -144,6 +146,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/certificate_information_next_button.png
         :alt: Certificate Information, Next Button
+        :scale: 35%
         :align: center
 
         Certificate Information, Next Button
@@ -159,6 +162,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/general_account_option_fields.png
         :alt: Provide Account Information Fields
+        :scale: 35%
         :align: center
 
         Provide Account Information Fields
@@ -167,6 +171,7 @@ Transfer Online, Inc. Onboarding Instructions
 
      .. figure:: _static/pdf_images/general_account_option_submit.png
         :alt: Provide Account Information, Submit Button
+        :scale: 35%
         :align: center
 
         Provide Account Information, Submit Button
