@@ -58,7 +58,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
       .. figure:: _static/pdf_images/get_started_today.png
          :alt: Get Started Today
-         :scale: 35%
+         :scale: 50%
          :align: center
 
          Get Started Today
@@ -78,7 +78,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
       .. figure:: _static/pdf_images/sign_up_here_shareholders.png
          :alt: Sign Up Here
-         :scale: 35%
+         :scale: 50%
          :align: center
 
          Sign Up Here
@@ -98,7 +98,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
       .. figure:: _static/pdf_images/register_for_online_access_page.png
          :alt: Register Online Access Page
-         :scale: 35%
+         :scale: 50%
          :align: center
 
          Register Online Access Page
@@ -126,16 +126,16 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - A letter sent from Transfer Online, Or
    - From another member who is already managing the account you wish to manage.
 
-     5.1.1. (To Skip) Click `I don't have a Security Code`.
+   5.1.1. (To Skip) Click `I don't have a Security Code`.
 
-     .. only:: html
+   .. only:: html
 
-        .. figure:: _static/pdf_images/skip_security_code.png
-           :alt: Skip Security Code Option
-           :scale: 35%
-           :align: center
+      .. figure:: _static/pdf_images/skip_security_code.png
+         :alt: Skip Security Code Option
+         :scale: 75%
+         :align: center
 
-           Skip Security Code Option
+         Skip Security Code Option
 
      .. only:: latex
 
@@ -152,7 +152,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
       .. figure:: _static/pdf_images/security_code_field.png
          :alt: Security Code
-         :scale: 35%
+         :scale: 75%
          :align: center
 
          Security Code field
@@ -173,7 +173,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
       .. figure:: _static/pdf_images/security_code_next_button.png
          :alt: Security Code, Next Button
-         :scale: 50%
+         :scale: 75%
          :align: center
 
          Security Code, Next Button
