@@ -45,6 +45,7 @@ Transfer Online, Inc. Onboarding Instructions
 
       \clearpage
 
+
 1. Go to the `Transfer Online, Inc. <https://www.transferonline.com/>`_ website.
 
 2. Click `Get Started Today`.
@@ -58,6 +59,7 @@ Transfer Online, Inc. Onboarding Instructions
 3. Click `Sign Up Here`.
 
    .. figure:: _static/pdf_images/sign_up_here_shareholders.png
+      :scale: 50%
       :alt: Sign Up Here
       :align: center
 
