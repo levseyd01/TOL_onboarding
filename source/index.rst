@@ -203,7 +203,6 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - Certificate Number, And
    - (If known) Certificate ID.
 
-
    5.2.1.   **(To Skip)** Click `Skip This Step`.
 
    .. only:: html
@@ -263,6 +262,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
          :align: center
 
          Certificate Information, Next Button
+
 
 .. only:: latex
 
