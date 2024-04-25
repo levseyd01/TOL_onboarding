@@ -61,6 +61,8 @@ Transfer Online, Inc. Onboarding Instructions
    .. figure:: _static/pdf_images/sign_up_here_shareholders.png
       :alt: Sign Up Here
       :scale: 50%
+      :height: 50%
+      :width: 50%
       :align: center
 
       Sign Up Here
