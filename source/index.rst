@@ -124,6 +124,7 @@ Transfer Online, Inc. Onboarding Instructions
      5.2.1. **(To Skip)** Click `Skip This Step`.
 
      .. figure:: _static/pdf_images/skip_certificate_information.png
+        :scale: 35%
         :alt: Skip Certificate Information
         :align: center
 
