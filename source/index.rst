@@ -137,7 +137,7 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
          Skip Security Code Option
 
-     .. only:: latex
+   .. only:: latex
 
         .. figure:: _static/pdf_images/skip_security_code.png
            :alt: Skip Security Code Option
