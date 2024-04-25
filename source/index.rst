@@ -126,18 +126,20 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - A letter sent from Transfer Online, Or
    - From another member who is already managing the account you wish to manage.
 
-   5.1.1. (To Skip) Click `I don't have a Security Code`.
+     |
 
-   .. only:: html
+     5.1.1. (To Skip) Click `I don't have a Security Code`.
 
-      .. figure:: _static/pdf_images/skip_security_code.png
-         :alt: Skip Security Code Option
-         :scale: 75%
-         :align: center
+     .. only:: html
 
-         Skip Security Code Option
+        .. figure:: _static/pdf_images/skip_security_code.png
+           :alt: Skip Security Code Option
+           :scale: 75%
+           :align: center
 
-   .. only:: latex
+           Skip Security Code Option
+
+     .. only:: latex
 
         .. figure:: _static/pdf_images/skip_security_code.png
            :alt: Skip Security Code Option
@@ -146,54 +148,53 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
 
            Skip Security Code Option
 
-   5.1.2. Input Security Code into `Security Code` field.
+     5.1.2. Input Security Code into `Security Code` field.
 
-   .. only:: html
+     .. only:: html
 
-      .. figure:: _static/pdf_images/security_code_field.png
-         :alt: Security Code
-         :scale: 75%
-         :align: center
+        .. figure:: _static/pdf_images/security_code_field.png
+           :alt: Security Code
+           :scale: 75%
+           :align: center
 
-         Security Code field
+           Security Code field
 
-   .. only:: latex
+     .. only:: latex
 
-      .. figure:: _static/pdf_images/security_code_field.png
-         :alt: Security Code
-         :scale: 25%
-         :align: center
+        .. figure:: _static/pdf_images/security_code_field.png
+           :alt: Security Code
+           :scale: 25%
+           :align: center
 
-         Security Code field
-
-
-   5.1.3. Click `Next`.
-
-   .. only:: html
-
-      .. figure:: _static/pdf_images/security_code_next_button.png
-         :alt: Security Code, Next Button
-         :scale: 75%
-         :align: center
-
-         Security Code, Next Button
+           Security Code field
 
 
-   .. only:: latex
+     5.1.3. Click `Next`.
 
-      .. figure:: _static/pdf_images/security_code_next_button.png
-         :alt: Security Code, Next Button
-         :scale: 35%
-         :align: center
+     .. only:: html
 
-         Security Code, Next Button
+        .. figure:: _static/pdf_images/security_code_next_button.png
+           :alt: Security Code, Next Button
+           :scale: 75%
+           :align: center
 
-   .. only:: latex
+           Security Code, Next Button
 
-      .. raw:: latex
 
-         \clearpage
+     .. only:: latex
 
+        .. figure:: _static/pdf_images/security_code_next_button.png
+           :alt: Security Code, Next Button
+           :scale: 35%
+           :align: center
+
+           Security Code, Next Button
+
+     .. only:: latex
+
+        .. raw:: latex
+
+           \clearpage
 
 
    5.2. (Optional) Method Two: Use Information From Certificate.
@@ -204,72 +205,74 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - Certificate Number, And
    - (If known) Certificate ID.
 
-   5.2.1.   **(To Skip)** Click `Skip This Step`.
+     |
 
-   .. only:: html
+     5.2.1.   **(To Skip)** Click `Skip This Step`.
 
-      .. figure:: _static/pdf_images/skip_certificate_information.png
-         :alt: Skip Certificate Information
-         :scale: 35%
-         :align: center
+     .. only:: html
 
-         Skip Certificate Information
+        .. figure:: _static/pdf_images/skip_certificate_information.png
+           :alt: Skip Certificate Information
+           :scale: 85%
+           :align: center
 
-   .. only:: latex
+           Skip Certificate Information
 
-      .. figure:: _static/pdf_images/skip_certificate_information.png
-         :alt: Skip Certificate Information
-         :scale: 25%
-         :align: center
+     .. only:: latex
 
-         Skip Certificate Information
+        .. figure:: _static/pdf_images/skip_certificate_information.png
+           :alt: Skip Certificate Information
+           :scale: 25%
+           :align: center
 
-   5.2.2.   Fill out the required information.
+           Skip Certificate Information
 
-   .. only:: html
+     5.2.2.   Fill out the required information.
 
-      .. figure:: _static/pdf_images/certificate_information_fields.png
-         :alt: Certificate Information
-         :scale: 35%
-         :align: center
+     .. only:: html
 
-         Certificate Information
+        .. figure:: _static/pdf_images/certificate_information_fields.png
+           :alt: Certificate Information
+           :scale: 85%
+           :align: center
 
-   .. only:: latex
+           Certificate Information
 
-      .. figure:: _static/pdf_images/certificate_information_fields.png
-         :alt: Certificate Information
-         :scale: 25%
-         :align: center
+     .. only:: latex
 
-         Certificate Information
+        .. figure:: _static/pdf_images/certificate_information_fields.png
+           :alt: Certificate Information
+           :scale: 25%
+           :align: center
 
-   5.2.3.   Click `Next`.
+           Certificate Information
 
-   .. only:: html
+     5.2.3.   Click `Next`.
 
-      .. figure:: _static/pdf_images/certificate_information_next_button.png
-         :alt: Certificate Information, Next Button
-         :scale: 35%
-         :align: center
+     .. only:: html
 
-         Certificate Information, Next Button
+        .. figure:: _static/pdf_images/certificate_information_next_button.png
+           :alt: Certificate Information, Next Button
+           :scale: 85%
+           :align: center
 
-   .. only:: latex
+           Certificate Information, Next Button
 
-      .. figure:: _static/pdf_images/certificate_information_next_button.png
-         :alt: Certificate Information, Next Button
-         :scale: 25%
-         :align: center
+     .. only:: latex
 
-         Certificate Information, Next Button
+        .. figure:: _static/pdf_images/certificate_information_next_button.png
+           :alt: Certificate Information, Next Button
+           :scale: 25%
+           :align: center
+
+           Certificate Information, Next Button
 
 
-   .. only:: latex
+     .. only:: latex
 
-      .. raw:: latex
+        .. raw:: latex
 
-         \clearpage
+           \clearpage
 
 
    5.3. (Optional) Method Three: Provide as Much Information as Possible.
@@ -279,42 +282,43 @@ Transfer Online, Inc. Shareholder Onboarding Instructions
    - A Security Code, And
    - Certificate Information.
 
-   5.3.1.   Fill out the required information.
+     |
+     5.3.1.   Fill out the required information.
 
-   .. only:: html
+     .. only:: html
 
-      .. figure:: _static/pdf_images/general_account_option_fields.png
-         :alt: Provide Account Information Fields
-         :scale: 35%
-         :align: center
+        .. figure:: _static/pdf_images/general_account_option_fields.png
+           :alt: Provide Account Information Fields
+           :scale: 85%
+           :align: center
 
-         Provide Account Information Fields
+           Provide Account Information Fields
 
-   .. only:: latex
+     .. only:: latex
 
-      .. figure:: _static/pdf_images/general_account_option_fields.png
-         :alt: Provide Account Information Fields
-         :scale: 25%
-         :align: center
+        .. figure:: _static/pdf_images/general_account_option_fields.png
+           :alt: Provide Account Information Fields
+           :scale: 25%
+           :align: center
 
-         Provide Account Information Fields
+           Provide Account Information Fields
 
-   5.3.2.   Click `Submit`.
+     5.3.2.   Click `Submit`.
 
-   .. only:: html
+     .. only:: html
 
-      .. figure:: _static/pdf_images/general_account_option_submit.png
-         :alt: Provide Account Information, Submit Button
-         :scale: 35%
-         :align: center
+        .. figure:: _static/pdf_images/general_account_option_submit.png
+           :alt: Provide Account Information, Submit Button
+           :scale: 85%
+           :align: center
 
-         Provide Account Information, Submit Button
+           Provide Account Information, Submit Button
 
-   .. only:: latex
+     .. only:: latex
 
-      .. figure:: _static/pdf_images/general_account_option_submit.png
-         :alt: Provide Account Information, Submit Button
-         :scale: 25%
-         :align: center
+        .. figure:: _static/pdf_images/general_account_option_submit.png
+           :alt: Provide Account Information, Submit Button
+           :scale: 25%
+           :align: center
 
-         Provide Account Information, Submit Button
+           Provide Account Information, Submit Button

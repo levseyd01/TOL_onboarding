@@ -270,3 +270,8 @@ pdf_repeat_table_rows = True
 
 # Enable smart quotes (1, 2 or 3) or disable by setting to 0
 pdf_smartquotes = 1
+
+
+html_context= {
+ "default_mode": "light",
+}

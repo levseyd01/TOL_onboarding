@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 
 
-<html lang="en" data-content_root="./" >
+<html lang="en" data-content_root="./" data-theme="light">
 
   <head>
     <meta charset="utf-8" />
@@ -13,7 +13,7 @@
   
   
   <script data-cfasync="false">
-    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
   </script>
   
@@ -56,7 +56,7 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script defer="defer" src="https://unpkg.com/@popperjs/core@2"></script>
     <script defer="defer" src="https://unpkg.com/tippy.js@6"></script>
-    <script defer="defer" src="_static/tippy\index.95d16787-fb9b-4064-87f0-555ec2591e13.js"></script>
+    <script defer="defer" src="_static/tippy\index.1323ef62-cea0-428e-91d6-147d6cb83431.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'index';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -65,7 +65,7 @@
   </head>
   
   
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="light">
 
   
   
@@ -146,8 +146,6 @@
   
   
     
-    
-      
     
     
     <img src="_static/tol-logo.png" class="logo__image only-light" alt="Transfer Online Documentation - Home"/>
@@ -465,12 +463,14 @@ document.write(`
 </div>
 <p>5.1. (Optional) Method One: Use a Security Code.</p>
 <p>There are a few ways to find the Security Code:</p>
-<ul class="simple">
+<ul>
 <li><p>From a Proxy Voting Card,</p></li>
 <li><p>A letter sent from the Issuing Company,</p></li>
 <li><p>A letter sent from Transfer Online, Or</p></li>
-<li><p>From another member who is already managing the account you wish to manage.</p></li>
-</ul>
+<li><p>From another member who is already managing the account you wish to manage.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 <p>5.1.1. (To Skip) Click <cite>I don’t have a Security Code</cite>.</p>
 <figure class="align-center" id="id7">
 <a class="reference internal image-reference" href="_images/skip_security_code.png"><img alt="Skip Security Code Option" src="_images/skip_security_code.png" style="width: 624.75px; height: 240.0px;" /></a>
@@ -492,38 +492,66 @@ document.write(`
 <p><span class="caption-text">Security Code, Next Button</span><a class="headerlink" href="#id11" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+</li>
+</ul>
 <p>5.2. (Optional) Method Two: Use Information From Certificate.</p>
 <p>This method works if you have a <strong>Physical Certificate</strong> with the following information:</p>
-<ul class="simple">
+<ul>
 <li><p>Certificate Name,</p></li>
 <li><p>Certificate Number, And</p></li>
-<li><p>(If known) Certificate ID.</p></li>
-</ul>
+<li><p>(If known) Certificate ID.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 <p>5.2.1.   <strong>(To Skip)</strong> Click <cite>Skip This Step</cite>.</p>
 <figure class="align-center" id="id13">
-<a class="reference internal image-reference" href="_images/skip_certificate_information.png"><img alt="Skip Certificate Information" src="_images/skip_certificate_information.png" style="width: 315.7px; height: 171.5px;" /></a>
+<a class="reference internal image-reference" href="_images/skip_certificate_information.png"><img alt="Skip Certificate Information" src="_images/skip_certificate_information.png" style="width: 766.6999999999999px; height: 416.5px;" /></a>
 <figcaption>
 <p><span class="caption-text">Skip Certificate Information</span><a class="headerlink" href="#id13" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <p>5.2.2.   Fill out the required information.</p>
 <figure class="align-center" id="id15">
-<a class="reference internal image-reference" href="_images/certificate_information_fields.png"><img alt="Certificate Information" src="_images/certificate_information_fields.png" style="width: 315.7px; height: 171.5px;" /></a>
+<a class="reference internal image-reference" href="_images/certificate_information_fields.png"><img alt="Certificate Information" src="_images/certificate_information_fields.png" style="width: 766.6999999999999px; height: 416.5px;" /></a>
 <figcaption>
 <p><span class="caption-text">Certificate Information</span><a class="headerlink" href="#id15" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 <p>5.2.3.   Click <cite>Next</cite>.</p>
 <figure class="align-center" id="id17">
-<a class="reference internal image-reference" href="_images/certificate_information_next_button.png"><img alt="Certificate Information, Next Button" src="_images/certificate_information_next_button.png" style="width: 315.7px; height: 171.5px;" /></a>
+<a class="reference internal image-reference" href="_images/certificate_information_next_button.png"><img alt="Certificate Information, Next Button" src="_images/certificate_information_next_button.png" style="width: 766.6999999999999px; height: 416.5px;" /></a>
 <figcaption>
 <p><span class="caption-text">Certificate Information, Next Button</span><a class="headerlink" href="#id17" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
 </li>
+</ul>
+<p>5.3. (Optional) Method Three: Provide as Much Information as Possible.</p>
+<p>Use this method if you lack both:</p>
+<ul>
+<li><p>A Security Code, And</p></li>
+<li><p>Certificate Information.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>5.3.1.   Fill out the required information.</p>
+<figure class="align-center" id="id19">
+<a class="reference internal image-reference" href="_images/general_account_option_fields.png"><img alt="Provide Account Information Fields" src="_images/general_account_option_fields.png" style="width: 991.9499999999999px; height: 374.0px;" /></a>
+<figcaption>
+<p><span class="caption-text">Provide Account Information Fields</span><a class="headerlink" href="#id19" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>5.3.2.   Click <cite>Submit</cite>.</p>
+<figure class="align-center" id="id21">
+<a class="reference internal image-reference" href="_images/general_account_option_submit.png"><img alt="Provide Account Information, Submit Button" src="_images/general_account_option_submit.png" style="width: 785.4px; height: 370.59999999999997px;" /></a>
+<figcaption>
+<p><span class="caption-text">Provide Account Information, Submit Button</span><a class="headerlink" href="#id21" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</li>
+</ul>
+</li>
 </ol>
-<blockquote>
-<div></div></blockquote>
 </section>
 
 
