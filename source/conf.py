@@ -254,7 +254,7 @@ pdf_use_coverpage = True
 # pdf_page_template = 'cutePage'
 
 # Show Table Of Contents at the beginning?
-pdf_use_toc = True
+pdf_use_toc = False
 
 # How many levels deep should the table of contents be?
 # pdf_toc_depth = 9999
