@@ -52,6 +52,7 @@ Transfer Online, Inc. Onboarding Instructions
 
    .. figure:: _static/pdf_images/get_started_today.png
       :alt: Get Started Today
+      :scale: 35%
       :align: center
 
       Get Started Today
@@ -117,10 +118,14 @@ Transfer Online, Inc. Onboarding Instructions
 
      5.1.3. Click `Next`.
 
-     .. figure:: _static/pdf_images/security_code_next_button.png
-        :alt: Security Code, Next Button
-        :scale: 35%
-        :align: center
+     .. only:: latex
+
+        .. raw:: latex
+
+           .. figure:: _static/pdf_images/security_code_next_button.png
+              :alt: Security Code, Next Button
+              :scale: 35%
+              :align: center
 
         Security Code, Next Button
 
