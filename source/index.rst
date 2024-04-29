@@ -113,7 +113,7 @@ Transfer Online, Inc. Onboarding Instructions for Shareholders
           \clearpage
 
 
-.. _step_5:
+.. _step-5:
 
 5. Verify Account.
 
@@ -380,7 +380,7 @@ Transfer Online, Inc. Onboarding Instructions for Shareholders
          Add an Account Button
 
 
-   6.3 Repeat `Step 5 <step_5>` for the additional shareholder.
+   6.3 Repeat :ref:`step-5` for the additional shareholder.
 
    6.4 Click `Add/Remove Accounts` at the top of the page to confirm shareholder was added.
 
