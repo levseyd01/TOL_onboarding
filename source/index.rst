@@ -112,6 +112,9 @@ Transfer Online, Inc. Onboarding Instructions for Shareholders
 
           \clearpage
 
+
+.. _step_5:
+
 5. Verify Account.
 
    .. note::
@@ -330,6 +333,78 @@ Transfer Online, Inc. Onboarding Instructions for Shareholders
            :align: center
 
            Provide Account Information, Submit Button
+
+
+6. (Optional) Add an Additional Shareholder
+
+   You can add an additional shareholder to the account from the "Link Request Pending" page.
+
+   6.1 Click `Add/Remove Accounts` at the top of the page.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/link_request_pending_add_shareholder.png
+         :alt: Add/Remove Accounts
+         :scale: 80%
+         :align: center
+
+         Add/Remove Accounts Button
+
+    .. only:: latex
+
+       .. figure:: _static/pdf_images/link_request_pending_add_shareholder.png
+          :alt: Add/Remove Accounts
+          :scale: 50%
+          :align: center
+
+          Add/Remove Accounts Button
+
+   6.2 Click `Add an Account`.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/add_an_account_button.png
+         :alt: Add an Account
+         :scale: 80%
+         :align: center
+
+         Add an Account Button
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/add_an_account_button.png
+         :alt: Add an Account
+         :scale: 50%
+         :align: center
+
+         Add an Account Button
+
+
+   6.3 Repeat `Step 5 <step_5>` for the additional shareholder.
+
+   6.4 Click `Add/Remove Accounts` at the top of the page to confirm shareholder was added.
+
+   .. only:: html
+
+      .. figure:: _static/pdf_images/new_account_status.png
+         :alt: Add/Remove Accounts
+         :scale: 80%
+         :align: center
+
+         Add/Remove Accounts Button
+
+   .. only:: latex
+
+      .. figure:: _static/pdf_images/new_account_status.png
+         :alt: Add/Remove Accounts
+         :scale: 50%
+         :align: center
+
+         Add/Remove Accounts Button
+
+
+
+
 
 
 
