@@ -350,20 +350,20 @@ Transfer Online, Inc. Onboarding Instructions for Shareholders
 
          Add/Remove Accounts Button
 
-    .. only:: latex
+   .. only:: latex
 
-       .. figure:: _static/pdf_images/link_request_pending_add_shareholder.png
-          :alt: Add/Remove Accounts
-          :scale: 50%
-          :align: center
+      .. figure:: _static/pdf_images/link_request_pending_add_shareholder.png
+         :alt: Add/Remove Accounts
+         :scale: 50%
+         :align: center
 
-          Add/Remove Accounts Button
+         Add/Remove Accounts Button
 
-    .. only:: latex
+   .. only:: latex
 
-       .. raw:: latex
+      .. raw:: latex
 
-          \clearpage
+         \clearpage
 
    6.2 Click `Add an Account`.
 
